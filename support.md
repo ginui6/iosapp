@@ -56,6 +56,6 @@
 
 技術的な問題やフィードバックがございましたら、以下の方法でご連絡ください：
 
-- privacy 
+- privacy https://github.com/ginui6/iosapp/blob/main/privacy.md
 
 *※ vmemoは定期的にアップデートされています。最新の機能や改善については、App Storeの更新情報をご確認ください。*
